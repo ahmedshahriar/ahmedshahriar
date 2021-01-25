@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-I'm a data science enthusiast
+I'm a data science, AI enthusiast
 I’m looking to collaborate on Data Science Project
 
 🔭 I am currently working on a news aggregator android application using Scrapy-Django integration as a backend API. It reached 11k+ downloads worldwide.
 
 Download from here - [BDNewsToday](https://play.google.com/store/apps/details?id=com.softaholik.bdnewstoday&hl=en&gl=US)
 
-
+My [LinkedIn](https://www.linkedin.com/in/ahmedshahriar/)
 
 <!--
 **ahmedshahriar/ahmedshahriar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
