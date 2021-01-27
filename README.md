@@ -9,10 +9,16 @@ Download from here - [BDNewsToday](https://play.google.com/store/apps/details?id
 
 My [LinkedIn](https://www.linkedin.com/in/ahmedshahriar/)
 
+
+
+
 <!--
 **ahmedshahriar/ahmedshahriar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+[![Sakib's github stats](https://github-readme-stats.vercel.app/api?username=ahmedshahriar&theme=blue-green)](https://github.com/ahmedshahriar)
+
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedshahriar&theme=blue-green)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
