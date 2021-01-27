@@ -7,7 +7,7 @@ I’m looking to collaborate on Data Science Project
 
 Download from here - [BDNewsToday](https://play.google.com/store/apps/details?id=com.softaholik.bdnewstoday&hl=en&gl=US)
 
-My [LinkedIn](https://www.linkedin.com/in/ahmedshahriar/)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ahmedshahriar/)
 
 
 
