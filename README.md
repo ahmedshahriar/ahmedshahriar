@@ -3,7 +3,7 @@
 I'm a data science, AI enthusiast. 
 I’m looking to collaborate on Data Science Project
 
-🔭 I am currently working on a news aggregator android application **BDNewsToday** using Scrapy-Django integration as a backend API. It reached 11k+ downloads worldwide.
+🔭 I am currently working on a news aggregator android application - **BDNewsToday** that uses Scrapy-Django integration as a backend API. It reached 11k+ downloads worldwide.
 
 Download from here
 
