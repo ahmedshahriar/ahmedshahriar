@@ -27,10 +27,11 @@ I have experience in working with back-end technologies (Django, Django REST Fra
 
  
 - 👯 I’m looking to collaborate on **Projects based on Web Scraping, Machine Learning, Natural Language Processing or Social Computing** 
-- 💬  Ask me about anything related to... my content. I am happy to help.
+- 💬 Ask me about anything related to... my content. I am happy to help.
 - 🔵 My CV - **[Ahmed Shahriar Sakib's CV](https://ahmedshahriar.com/assets/files/ahmed_shahriar_sakib_cv.pdf)**
 - 🔵 List of my featured Projects - **[ahmedshahriar.com/portfolio](https://ahmedshahriar.com/portfolio)**
-- 🔵 My Research Summary - **[ahmedshahriar.com/research](https://ahmedshahriar.com/research)**
+- 🔵 List of my BScSE Academic Projects on GitHub - **[ahmedshahriar/Academic-Projects](https://github.com/ahmedshahriar/Academic-Projects)**
+- 🔵 My Research work Summary - **[ahmedshahriar.com/research](https://ahmedshahriar.com/research)**
   
 ### Latest publication
 
