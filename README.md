@@ -20,8 +20,6 @@
 <br />
 
 I’m Ahmed Shahriar Sakib. I’m a Software Engineer, an expert in web scraping & automation, data analytics, and machine learning.
-
-As of December 2021, I've been working in the software industry for about two years. Apart from that, I am also working as a Research Associate at [*Socio Cognitive Lab*](https://sociocognitive.com)
   
 I have experience in working with back-end technologies (Django, Django REST Framework, Flask, node js, SQL, NoSQL), web scraping (Scrapy, selenium, etc.,) NLP, and real-world business problems from scratch.
 
