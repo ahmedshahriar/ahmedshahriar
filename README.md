@@ -21,14 +21,15 @@
 
 I’m Ahmed Shahriar Sakib. I’m a Software Engineer, an expert in web scraping & automation, data analytics, and machine learning.
   
-I have experience in working with back-end technologies (Django, Django REST Framework, Flask, node js, SQL, NoSQL), web scraping (Scrapy, selenium, etc.,) NLP, and real-world business problems from scratch.
+I have experience in working with back-end technologies (Django, Django REST Framework, Flask, node js, SQL, NoSQL), web scraping (Scrapy, selenium, etc.,) NLP, and real-world business problems from scratch. I am also a kaggle master.
 
  
-- 👯 I’m looking to collaborate on **Projects based on Web Scraping, Machine Learning, Natural Language Processing or Social Computing** 
+- 👯 I’m looking to collaborate on Projects based on **Web Scraping, Machine Learning, Natural Language Processing or Deep Learning** 
 - 💬 Ask me about anything related to... my content. I am happy to help.
 - 🔵 My CV - **[Ahmed Shahriar Sakib's CV](https://ahmedshahriar.com/assets/files/ahmed_shahriar_sakib_cv.pdf)**
 - 🔵 List of my featured Projects - **[ahmedshahriar.com/portfolio](https://ahmedshahriar.com/portfolio)**
 - 🔵 List of my BScSE Academic Projects on GitHub - **[ahmedshahriar/Academic-Projects](https://github.com/ahmedshahriar/Academic-Projects)**
+- 🔵 Check my kaggle notebooks - **[kaggle.com/ahmedshahriarsakib/code](https://www.kaggle.com/ahmedshahriarsakib/code)**
 - 🔵 My Research work Summary - **[ahmedshahriar.com/research](https://ahmedshahriar.com/research)**
   
 ### Latest publication
@@ -48,8 +49,19 @@ I highly appreciate it if you check the app and send me feedback. Download from 
 
 
 <a title="BDNewstoday Android" href="https://play.google.com/store/apps/details?id=com.softaholik.bdnewstoday&hl=en&gl=US"> <img src="https://user-images.githubusercontent.com/40615350/121086998-aeeb9b00-c805-11eb-8fee-80f28a36eeca.png" width="250"/></a>
+---
 
+### Kaggle Rank
 
+<div align="center">
+  <a href="https://www.kaggle.com/ahmedshahriarsakib"><img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/ahmedshahriarsakib" /></a>
+</div>
+ <br> 
+<p align="center">
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/ahmedshahriarsakib/dataset" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/ahmedshahriarsakib/notebook" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/ahmedshahriarsakib/discussion" />
+</p>
 ---
   
 <div align="center">
@@ -59,7 +71,7 @@ I highly appreciate it if you check the app and send me feedback. Download from 
   <img height="295em"  src="https://activity-graph.herokuapp.com/graph?username=ahmedshahriar&theme=xcode" alt="Ahmed Shahriar Sakib's GitHub Activity"/>
   </a>
 </div>
- 
+  
 ---
 
 <!--
