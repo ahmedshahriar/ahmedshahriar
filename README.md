@@ -17,7 +17,7 @@
 
 <a href="https://github.com/ahmedshahriar" target="_blank"><p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedshahriar&label=Profile%20views&color=129e00" alt="ahmedshahriar" /> </p><a/> 
 
-<br />
+<br/>
 
 I’m Ahmed Shahriar Sakib. I’m a Software Engineer, an expert in web scraping & automation, data analytics, and machine learning.
   
@@ -61,7 +61,8 @@ I highly appreciate it if you check the app and send me feedback. Download from 
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/ahmedshahriarsakib/dataset" />
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/ahmedshahriarsakib/notebook" />
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/ahmedshahriarsakib/discussion" />
-</p>
+</p>  
+  
 ---
   
 <div align="center">
@@ -71,8 +72,6 @@ I highly appreciate it if you check the app and send me feedback. Download from 
   <img height="295em"  src="https://activity-graph.herokuapp.com/graph?username=ahmedshahriar&theme=xcode" alt="Ahmed Shahriar Sakib's GitHub Activity"/>
   </a>
 </div>
-  
----
 
 <!--
 
