@@ -1,6 +1,6 @@
 <!-- <img src="https://media0.giphy.com/media/Nx0rz3jtxtEre/giphy.gif?cid=ecf05e475z0s30l4crjq7nvpzygw53ri44glm5qsrm37b0vs&rid=giphy.gif&ct=g"> -->
 
-### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 <a href="https://www.linkedin.com/in/ahmedshahriar/">
   <img align="left" alt="Ahmed Shahriar Sakib's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -29,7 +29,8 @@ I have experience in working with back-end technologies (Django, Django REST Fra
 🔵 My CV - **[Ahmed Shahriar Sakib's CV](https://ahmedshahriar.com/assets/files/ahmed_shahriar_sakib_cv.pdf)**\
 🔵 List of my featured Projects - **[ahmedshahriar.com/portfolio](https://ahmedshahriar.com/portfolio)**\
 🔵 List of my BScSE Academic Projects on GitHub - **[ahmedshahriar/Academic-Projects](https://github.com/ahmedshahriar/Academic-Projects)**\
-🔵 Check my kaggle notebooks - **[kaggle.com/ahmedshahriarsakib/code](https://www.kaggle.com/ahmedshahriarsakib/code)**\
+🔵 kaggle notebooks - **[kaggle.com/ahmedshahriarsakib/code](https://www.kaggle.com/ahmedshahriarsakib/code)**\
+🔵 kaggle datasets - **[kaggle.com/ahmedshahriarsakib/datasets](https://www.kaggle.com/ahmedshahriarsakib/datasets)**\
 🔵 My Research work Summary - **[ahmedshahriar.com/research](https://ahmedshahriar.com/research)**
   
 ### Latest publication
