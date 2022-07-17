@@ -35,7 +35,7 @@ I have experience in working with back-end technologies (Django, Django REST Fra
   
 ### Latest publication
 
-**"Identifying Insomnia from Social Media Posts: Psycholinguistic Analyses of User Tweets"** - where we built an insomnia prediction model from users’ psycholinguistic patterns, i.e., word usage, semantics, and their Big5 personality traits as derived from tweets. It got published (**First Author**) at the **Journal of Medical Internet Research**, a top-tier journal (Q1, IF-**5.43**) in the field of health informatics.
+**"Identifying Insomnia from Social Media Posts: Psycholinguistic Analyses of User Tweets"** - where we built an insomnia prediction model from users’ psycholinguistic patterns, i.e., word usage, semantics, and their Big5 personality traits as derived from tweets. It got published (**First Author**) at the **Journal of Medical Internet Research**, a top-tier journal (Q1, IF-**7.08**) in the field of health informatics.
 Check it out here -  
   
 [![DOI:10.2196/27613](http://img.shields.io/badge/DOI-10.1101/2021.01.08.425840-1E70C2.svg)](https://doi.org/10.2196/27613)
