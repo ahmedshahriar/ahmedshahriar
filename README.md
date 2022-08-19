@@ -8,7 +8,7 @@
   <img align="left" alt="ahmed__shahriar | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.kaggle.com/ahmedshahriarsakib">
-  <img align="left" alt="Ahmed Shahriar Sakib's Kaggle Profile" width="12px" src="https://symbols.getvecta.com/stencil_86/5_kaggle-icon.c9fc72341a.svg" />
+  <img align="left" alt="Ahmed Shahriar Sakib's Kaggle Profile" width="22px" src="https://www.kaggle.com/static/images/favicon.ico" />
 </a>
 <a href="mailto:ahmed.shahriar.sakib@gmail.com?subject=Github%20Visitor&body=Hi%20Sakib,...">
   <img align="left" alt="ahmed.shahriar.sakib@gmail.com" width="29px" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" />
