@@ -21,8 +21,7 @@
 
 I’m Ahmed Shahriar Sakib. I’m a Software Engineer, an expert in web scraping & automation, data analytics, and machine learning.
   
-I have experience in working with back-end technologies (Django, Django REST Framework, Flask, node js, SQL, NoSQL), web scraping (Scrapy, selenium, etc.,) NLP, and real-world business problems from scratch. I am also a kaggle master.
-
+I have experience in working with back-end technologies (Django, Django REST Framework, Flask, node js, SQL, NoSQL), web scraping (Scrapy, selenium, etc.,) NLP, and real-world business problems from scratch. I am also a kaggle master. Besides, I work as a graduate research assistant at the WATERLOO Analytics AND Optimization LAB (WANOPT). My research focuses on Operation Research (OR), data science and machine learning.
  
 👯 I’m looking to collaborate on Projects based on **Web Scraping, Machine Learning, Natural Language Processing or Deep Learning**\
 💬 Ask me about anything related to... my content. I am happy to help.\
