@@ -51,7 +51,7 @@ I highly appreciate it if you check the app and send me feedback. Download from 
 <a title="BDNewstoday Android" href="https://play.google.com/store/apps/details?id=com.softaholik.bdnewstoday&hl=en&gl=US"> <img src="https://user-images.githubusercontent.com/40615350/121086998-aeeb9b00-c805-11eb-8fee-80f28a36eeca.png" width="250"/></a>
 ---
 
-### Kaggle Rank
+<!-- ### Kaggle Rank
 
 <div align="center">
   <a href="https://www.kaggle.com/ahmedshahriarsakib"><img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/ahmedshahriarsakib" /></a>
@@ -63,13 +63,15 @@ I highly appreciate it if you check the app and send me feedback. Download from 
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/ahmedshahriarsakib/discussion" />
 </p>  
   
----
+--- -->
   
 <div align="center">
   <a href="https://github.com/ahmedshahriar">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmedshahriar&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Ahmed Shahriar Sakib's GitHub stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedshahriar&layout=compact&langs_count=7&theme=dark" alt="Ahmed Shahriar Sakib's Top Languages"/>
-  <img height="295em"  src="https://activity-graph-ahmedshahriar.herokuapp.com/graph?username=ahmedshahriar&theme=xcode" alt="Ahmed Shahriar Sakib's GitHub Activity"/>
+    
+<!--   <img height="295em"  src="https://activity-graph-ahmedshahriar.herokuapp.com/graph?username=ahmedshahriar&theme=xcode" alt="Ahmed Shahriar Sakib's GitHub Activity"/> -->
+    
   </a>
 </div>
 
