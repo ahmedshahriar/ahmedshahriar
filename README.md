@@ -21,7 +21,7 @@
 
 I’m Ahmed Shahriar Sakib. I’m a Software Engineer, an expert in web scraping & automation, data analytics, and machine learning.
   
-I have experience in working with back-end technologies (Django, Django REST Framework, Flask, node js, SQL, NoSQL), web scraping (Scrapy, selenium, etc.,) NLP, and real-world business problems from scratch. I am also a kaggle master. Besides, I am a graduate research student at the WATERLOO Analytics AND Optimization LAB (WANOPT). My research focuses on Operation Research (OR), data science and machine learning.
+I have experience in working with back-end technologies (Django, Django REST Framework, Flask, node js, SQL, NoSQL), web scraping (Scrapy, selenium, etc.,) NLP, and real-world business problems from scratch. Besides, I am a graduate research student at the WATERLOO Analytics AND Optimization LAB (WANOPT). My research focuses on data science, machine learning and optimization.
  
 👯 I’m looking to collaborate on Projects based on **Web Scraping, Machine Learning, Natural Language Processing or Deep Learning**\
 💬 Ask me about anything related to... my content. I am happy to help.\
@@ -34,10 +34,9 @@ I have experience in working with back-end technologies (Django, Django REST Fra
   
 ### Latest publication
 
-**"Identifying Insomnia from Social Media Posts: Psycholinguistic Analyses of User Tweets"** - where we built an insomnia prediction model from users’ psycholinguistic patterns, i.e., word usage, semantics, and their Big5 personality traits as derived from tweets. It got published (**First Author**) at the **Journal of Medical Internet Research**, a top-tier journal (Q1, IF-**7.08**) in the field of health informatics.
-Check it out here -  
+**Identifying Insomnia from Social Media Posts: Psycholinguistic Analyses of User Tweets** [JMIR (IF-7.08), Link - [https://doi.org/10.2196/27613](https://doi.org/10.2196/27613)]
   
-[![DOI:10.2196/27613](http://img.shields.io/badge/DOI-10.1101/2021.01.08.425840-1E70C2.svg)](https://doi.org/10.2196/27613)
+Where we built an insomnia prediction model from users’ psycholinguistic patterns, i.e., word usage, semantics, and their Big5 personality traits as derived from tweets.
 
 ### Ongoing Project
   
