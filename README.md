@@ -20,7 +20,7 @@ I’m Ahmed Shahriar Sakib. I’m a Software Engineer, an expert in data analyti
   
 I have experience in working with back-end technologies (Django, Django REST Framework, Flask, node js, SQL, NoSQL), web scraping (Scrapy, selenium, etc.,) NLP, and real-world business problems from scratch. Besides, I am a graduate research student at the University of Waterloo. My research focuses on data science, machine learning and optimization.
  
-💻 I’m looking to collaborate on Projects based on **Data Analytics, Machine Learning, NLP or Deep Learning**\
+💻 I’m looking to collaborate on Projects based on **Data Analytics, Machine Learning, NLP or Deep Learning**
 
 🔵 My CV - **[Ahmed Shahriar Sakib's CV](https://ahmedshahriar.com/assets/files/ahmed_shahriar_sakib_cv.pdf)**\
 🔵 List of my featured Projects - **[ahmedshahriar.com/portfolio](https://ahmedshahriar.com/portfolio)**\
