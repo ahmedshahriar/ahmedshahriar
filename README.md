@@ -10,21 +10,18 @@
 <a href="https://www.kaggle.com/ahmedshahriarsakib">
   <img align="left" alt="Ahmed Shahriar Sakib's Kaggle Profile" width="22px" src="https://www.kaggle.com/static/images/favicon.ico" />
 </a>
-<a href="mailto:ahmed.shahriar.sakib@gmail.com?subject=Github%20Visitor&body=Hi%20Sakib,...">
-  <img align="left" alt="ahmed.shahriar.sakib@gmail.com" width="29px" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" />
-</a>
 
 
 <a href="https://github.com/ahmedshahriar" target="_blank"><p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedshahriar&label=Profile%20views&color=129e00" alt="ahmedshahriar" /> </p><a/> 
 
 <br/>
 
-I’m Ahmed Shahriar Sakib. I’m a Software Engineer, an expert in web scraping & automation, data analytics, and machine learning.
+I’m Ahmed Shahriar Sakib. I’m a Software Engineer, an expert in data analytics, machine learning, web scraping, and automation.
   
-I have experience in working with back-end technologies (Django, Django REST Framework, Flask, node js, SQL, NoSQL), web scraping (Scrapy, selenium, etc.,) NLP, and real-world business problems from scratch. Besides, I am a graduate research student at the WATERLOO Analytics AND Optimization LAB (WANOPT). My research focuses on data science, machine learning and optimization.
+I have experience in working with back-end technologies (Django, Django REST Framework, Flask, node js, SQL, NoSQL), web scraping (Scrapy, selenium, etc.,) NLP, and real-world business problems from scratch. Besides, I am a graduate research student at the University of Waterloo. My research focuses on data science, machine learning and optimization.
  
-👯 I’m looking to collaborate on Projects based on **Web Scraping, Machine Learning, Natural Language Processing or Deep Learning**\
-💬 Ask me about anything related to... my content. I am happy to help.\
+💻 I’m looking to collaborate on Projects based on **Data Analytics, Machine Learning, NLP or Deep Learning**\
+
 🔵 My CV - **[Ahmed Shahriar Sakib's CV](https://ahmedshahriar.com/assets/files/ahmed_shahriar_sakib_cv.pdf)**\
 🔵 List of my featured Projects - **[ahmedshahriar.com/portfolio](https://ahmedshahriar.com/portfolio)**\
 🔵 List of my BScSE Academic Projects on GitHub - **[ahmedshahriar/Academic-Projects](https://github.com/ahmedshahriar/Academic-Projects)**\
@@ -32,7 +29,7 @@ I have experience in working with back-end technologies (Django, Django REST Fra
 🔵 kaggle datasets - **[kaggle.com/ahmedshahriarsakib/datasets](https://www.kaggle.com/ahmedshahriarsakib/datasets)**\
 🔵 My Research work Summary - **[ahmedshahriar.com/research](https://ahmedshahriar.com/research)**
   
-### Latest publication
+### Featured Publication
 
 **Identifying Insomnia from Social Media Posts: Psycholinguistic Analyses of User Tweets** [JMIR (IF-7.08), Link - [https://doi.org/10.2196/27613](https://doi.org/10.2196/27613)]
   
@@ -40,7 +37,7 @@ Where we built an insomnia prediction model from users’ psycholinguistic patte
 
 ### Ongoing Project
   
-I am currently working on **BDNewsToday** - it is a Bangla News aggregator mobile Application like Feedly or UpWire News. It gathers news from the most popular newspapers and Youtube News channels from Bangladesh. As of December 2021, It reached **12k+** downloads worldwide. (**4.6** ratings, daily 1k+ active users)
+**BDNewsToday** - a Bangla News aggregator mobile Application like Feedly or UpWire News. It gathers news from the most popular newspapers and Youtube News channels from Bangladesh. (12k+ downloads, 1k+ daily active users)
   
 I highly appreciate it if you check the app and send me feedback. Download from here
 
