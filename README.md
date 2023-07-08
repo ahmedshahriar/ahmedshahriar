@@ -2,10 +2,10 @@
 
 ### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 <a href="https://www.linkedin.com/in/ahmedshahriar/">
-  <img align="left" alt="Ahmed Shahriar Sakib's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Ahmed Shahriar Sakib's LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
 </a>
 <a href="https://twitter.com/ahmed__shahriar">
-  <img align="left" alt="ahmed__shahriar | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="ahmed__shahriar | Twitter" width="27px" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" />
 </a>
 <a href="https://www.kaggle.com/ahmedshahriarsakib">
   <img align="left" alt="Ahmed Shahriar Sakib's Kaggle Profile" width="22px" src="https://www.kaggle.com/static/images/favicon.ico" />
