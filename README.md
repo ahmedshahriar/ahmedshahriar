@@ -18,16 +18,13 @@
 
 I’m Ahmed Shahriar Sakib. I’m a Software Engineer, an expert in data analytics, machine learning, web scraping, and automation.
   
-I have experience in working with back-end technologies (Django, Django REST Framework, Flask, node js, SQL, NoSQL), web scraping (Scrapy, selenium, etc.,) NLP, and real-world business problems from scratch. Besides, I am a graduate research student at the University of Waterloo. My research focuses on data science, machine learning and optimization.
- 
-💻 I’m looking to collaborate on Projects based on **Data Analytics, Machine Learning, NLP or Deep Learning**
+I have experience in working with back-end technologies, web scraping, NLP, and real-world business problems from scratch in the Python tech stack. Besides, I am a graduate research student at the University of Waterloo. My research focuses on data science, machine learning, and NLP.
 
 🔵 My CV - **[Ahmed Shahriar Sakib's CV](https://ahmedshahriar.com/assets/files/ahmed_shahriar_sakib_cv.pdf)**\
 🔵 List of my featured Projects - **[ahmedshahriar.com/portfolio](https://ahmedshahriar.com/portfolio)**\
 🔵 List of my BScSE Academic Projects on GitHub - **[ahmedshahriar/Academic-Projects](https://github.com/ahmedshahriar/Academic-Projects)**\
-🔵 kaggle notebooks - **[kaggle.com/ahmedshahriarsakib/code](https://www.kaggle.com/ahmedshahriarsakib/code)**\
-🔵 kaggle datasets - **[kaggle.com/ahmedshahriarsakib/datasets](https://www.kaggle.com/ahmedshahriarsakib/datasets)**\
-🔵 My Research work Summary - **[ahmedshahriar.com/research](https://ahmedshahriar.com/research)**
+🔵 Kaggle notebooks - **[kaggle.com/ahmedshahriarsakib/code](https://www.kaggle.com/ahmedshahriarsakib/code)**\
+🔵 Kaggle datasets - **[kaggle.com/ahmedshahriarsakib/datasets](https://www.kaggle.com/ahmedshahriarsakib/datasets)**\
   
 ### Featured Publication
 
@@ -39,7 +36,7 @@ Where we built an insomnia prediction model from users’ psycholinguistic patte
   
 **BDNewsToday** - a Bangla News aggregator mobile Application like Feedly or UpWire News. It gathers news from the most popular newspapers and Youtube News channels from Bangladesh. (12k+ downloads, 1k+ daily active users)
   
-I highly appreciate it if you check the app and send me feedback. Download from here
+I would highly appreciate it if you could check the app and send me feedback. Download from here
 
 [<img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />](https://play.google.com/store/apps/details?id=com.softaholik.bdnewstoday&hl=en&gl=US "BDNewsToday")
 
