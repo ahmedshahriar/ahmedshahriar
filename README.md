@@ -32,16 +32,6 @@ I have experience in working with back-end technologies, web scraping, NLP, and 
   
 Where we built an insomnia prediction model from users’ psycholinguistic patterns, i.e., word usage, semantics, and their Big5 personality traits as derived from tweets.
 
-### Ongoing Project
-  
-**BDNewsToday** - a Bangla News aggregator mobile Application like Feedly or UpWire News. It gathers news from the most popular newspapers and Youtube News channels from Bangladesh. (12k+ downloads, 1k+ daily active users)
-  
-I would highly appreciate it if you could check the app and send me feedback. Download from here
-
-[<img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />](https://play.google.com/store/apps/details?id=com.softaholik.bdnewstoday&hl=en&gl=US "BDNewsToday")
-
-
-<a title="BDNewstoday Android" href="https://play.google.com/store/apps/details?id=com.softaholik.bdnewstoday&hl=en&gl=US"> <img src="https://user-images.githubusercontent.com/40615350/121086998-aeeb9b00-c805-11eb-8fee-80f28a36eeca.png" width="250"/></a>
 ---
 
 <!-- ### Kaggle Rank
