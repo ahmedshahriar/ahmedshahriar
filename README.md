@@ -18,17 +18,17 @@
 
 I’m Ahmed Shahriar Sakib. I’m a Software Engineer, an expert in data analytics, machine learning, web scraping, and automation.
   
-I have experience in working with back-end technologies, web scraping, NLP, and real-world business problems from scratch in the Python tech stack. Besides, I am a graduate research student at the University of Waterloo. My research focuses on data science, machine learning, and NLP.
+I have experience in working with back-end technologies, web scraping, NLP, and real-world business problems from scratch in the Python tech stack. Currently, I am doing my MASc in Management Science and Engineering at the University of Waterloo. My research focuses on Data Analytics, Machine learning, and NLP including large language models, for analyzing design activity.
 
 🔵 My CV - **[Ahmed Shahriar Sakib's CV](https://ahmedshahriar.com/assets/files/ahmed_shahriar_sakib_cv.pdf)**\
 🔵 List of my featured Projects - **[ahmedshahriar.com/portfolio](https://ahmedshahriar.com/portfolio)**\
-🔵 List of my BScSE Academic Projects on GitHub - **[ahmedshahriar/Academic-Projects](https://github.com/ahmedshahriar/Academic-Projects)**\
 🔵 Kaggle notebooks - **[kaggle.com/ahmedshahriarsakib/code](https://www.kaggle.com/ahmedshahriarsakib/code)**\
 🔵 Kaggle datasets - **[kaggle.com/ahmedshahriarsakib/datasets](https://www.kaggle.com/ahmedshahriarsakib/datasets)**
+🔵 List of my BScSE Academic Projects on GitHub - **[ahmedshahriar/Academic-Projects](https://github.com/ahmedshahriar/Academic-Projects)**\
   
 ### Featured Publication
 
-**Identifying Insomnia from Social Media Posts: Psycholinguistic Analyses of User Tweets** [JMIR (IF-7.08), Link - [https://doi.org/10.2196/27613](https://doi.org/10.2196/27613)]
+**Identifying Insomnia from Social Media Posts: Psycholinguistic Analyses of User Tweets** [JMIR (IF-5.80), Link - [https://doi.org/10.2196/27613](https://doi.org/10.2196/27613)]
   
 Where we built an insomnia prediction model from users’ psycholinguistic patterns, i.e., word usage, semantics, and their Big5 personality traits as derived from tweets.
 
@@ -57,18 +57,3 @@ Where we built an insomnia prediction model from users’ psycholinguistic patte
     
   </a>
 </div>
-
-<!--
-
-Here are some ideas to get you started:
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
