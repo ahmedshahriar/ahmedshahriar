@@ -23,8 +23,7 @@ I have experience in working with back-end technologies, web scraping, NLP, and 
 🔵 My CV - **[Ahmed Shahriar Sakib's CV](https://ahmedshahriar.com/assets/files/ahmed_shahriar_sakib_cv.pdf)**\
 🔵 List of my featured Projects - **[ahmedshahriar.com/portfolio](https://ahmedshahriar.com/portfolio)**\
 🔵 Kaggle notebooks - **[kaggle.com/ahmedshahriarsakib/code](https://www.kaggle.com/ahmedshahriarsakib/code)**\
-🔵 Kaggle datasets - **[kaggle.com/ahmedshahriarsakib/datasets](https://www.kaggle.com/ahmedshahriarsakib/datasets)**
-🔵 List of my BScSE Academic Projects on GitHub - **[ahmedshahriar/Academic-Projects](https://github.com/ahmedshahriar/Academic-Projects)**\
+🔵 Kaggle datasets - **[kaggle.com/ahmedshahriarsakib/datasets](https://www.kaggle.com/ahmedshahriarsakib/datasets)**\
   
 ### Featured Publication
 
