@@ -16,9 +16,10 @@
 
 <br/>
 
-I’m Ahmed Shahriar Sakib. I’m a Software Engineer, an expert in data analytics, machine learning, web scraping, and automation.
-  
-I have experience in working with back-end technologies, web scraping, natural language processing, and real-world business problems from scratch. I recently completed my MASc in Management Science and Engineering at the University of Waterloo. My research focused on Machine learning and NLP including large language models, for analyzing design activity.
+I am Ahmed Shahriar Sakib. With a background as a Software Engineer, I specialize in data analytics, machine learning, natural language processing (NLP), web scraping, and automation.
+
+I recently completed my MASc in Management Science and Engineering at the University of Waterloo, where my research focused on machine learning and NLP, including work with large language models. I hold a BSc in Software Engineering (2019) and have since been building scalable software systems and applying data-driven technologies to solve real-world problems.
+To complement my technical experience, I’ve earned professional certifications from AWS, Microsoft, IBM, and DeepLearning.AI, covering cloud computing, AI/ML, and data science.
 
 🔵 List of my featured Projects - **[ahmedshahriar.com/portfolio](https://ahmedshahriar.com/portfolio)**\
 🔵 Kaggle notebooks - **[kaggle.com/ahmedshahriarsakib/code](https://www.kaggle.com/ahmedshahriarsakib/code)**\
