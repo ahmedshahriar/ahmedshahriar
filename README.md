@@ -16,7 +16,7 @@
 
 I am Ahmed Shahriar Sakib. With a background as a Software Engineer, I specialize in data analytics, machine learning (ML), natural language processing (NLP), web scraping/crawling, and automation.
 
-I completed my MASc at the UWaterloo, where my research focused on ML and NLP, mostly working with large language models (LLMs). I hold a BSc in Software Engineering and have since (2019) been building scalable software systems and applying data-driven technologies to solve real-world problems. 
+I completed my MASc at the UWaterloo, where my research focused on ML and NLP, mostly working with large language models (LLMs). I hold a BSc in Software Engineering and have since been building scalable software systems and applying data-driven technologies to solve real-world problems. 
 
 I’ve earned professional certifications from AWS, Microsoft Azure, IBM, and DeepLearning.AI, covering cloud computing, AI/ML, and data science. I am also a Kaggle Notebooks Master. 
 
@@ -28,7 +28,7 @@ I’m currently focused on building ML-powered applications and scalable data sy
 
 ## 🚀 Featured Product
 
-**BDNewsToday** — Bangla news aggregator Android app powered by scrapy-django integrated back-end. Launched and have been maintaining since 2019.
+**BDNewsToday** — Bangla news aggregator Android app powered by scrapy-django integrated back-end.
 
 - 📱 17K+ downloads on Google Play  
 - 📰 Aggregates most popular Bangla & English newspapers and YouTube news channels from Bangladesh 
