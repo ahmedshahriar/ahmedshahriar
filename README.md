@@ -30,9 +30,8 @@ I’m currently focused on building ML-powered applications and scalable data sy
 
 **BDNewsToday** — Bangla news aggregator Android app powered by scrapy-django integrated back-end.
 
-- 📱 17K+ downloads on Google Play  
 - 📰 Aggregates most popular Bangla & English newspapers and YouTube news channels from Bangladesh 
-- ⚡ Built scalable web crawling ETL pipelines and ML/NLP/LLM workflows for content processing and ranking
+- ⚡ Built scalable web crawling ETL pipelines and downstream ML/NLP/LLM workflows for content processing, summarization, and ranking
 
 I highly appreciate it if you could check the app and send me feedback. Download from here
 
