@@ -5,7 +5,6 @@
 
 
 <a href="https://github.com/ahmedshahriar" target="_blank"><p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedshahriar&label=Profile%20views&color=129e00" alt="ahmedshahriar" /> </p><a/> 
-
 <br/>
 
 I am Ahmed Shahriar Sakib. With a background as a Software Engineer, I specialize in data analytics, machine learning (ML), natural language processing (NLP), web scraping/crawling, and automation.
